@@ -1,1 +1,2 @@
-Fcjonalnosc A testowana
+Fcjonalnosc B testowana w pliku A
+
